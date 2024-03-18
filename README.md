@@ -9,9 +9,6 @@ This React web application serves as a dashboard to visualize water and electric
 * Technologies Used
 * Setup and Usage
   
-# Demonstration Video
-Click the link below to view a short demonstration of the application
-https://drive.google.com/file/d/14FJtLuxaLA0Xym9OZVcBa6hLPLGiKgnI/view?usp=drive_link
 
 # Introduction
 Energy Consumption Dashboard
