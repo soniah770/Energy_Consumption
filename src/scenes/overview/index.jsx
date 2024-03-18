@@ -19,7 +19,7 @@ const Overview = ({videoLink}) => {
     {/* Image Banner */}
     <div class = "ImageContainer"> 
       <h1 class = "Heading">Welcome</h1>
-      <p1 class = "Subheading">To The Hasso Plattner d-School Afrika.</p1>
+      <p1 class = "Subheading">Energy Consumption</p1>
     </div>
       
     <div class = "InfoContainer">
@@ -36,20 +36,12 @@ const Overview = ({videoLink}) => {
         icon = {WaterElectricity}
         className="InfoContainer2"
       />
-      <div className="InfoContainer2">
-        <iFrame 
-        width="100%"
-        height="auto"
-        src={videoLink}
-        frameBoarder="0"
-        allow=" autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-        allowFullScreen
-        title="youtube"
-        muted
-        />
-
-      </div>
-
+        <InfoBox
+        title = "Water & Electricity"
+        subtitle = "Our solar panels allow us to harness clean electricity and our building's eco-friendly design promotes sustainable use of both electricity and water."
+        icon = {WaterElectricity}
+        className="InfoContainer2"
+      />
       
   
     </div>
