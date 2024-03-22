@@ -1,5 +1,5 @@
 # Energy Consumption Dashboard
-This React web application serves as a dashboard to visualize water and electricity consumption data by retrieving information from an API. It provides insights into energy consumption, solar generation, cost savings, and total water usage in the d-School Afrika building.
+This React web application serves as a dashboard to visualize water and electricity consumption data by retrieving information from an API. 
 
 # Table of Contents
 * Link to Demonstration Video
