@@ -1,6 +1,6 @@
 # Energy Consumption Dashboard
 This React web application serves as a dashboard to visualize water and electricity consumption data by retrieving information from an API. 
-![image](https://github.com/soniah770/Energy_Consumption/assets/59695002/0cabff3a-491b-461d-b874-b9ddb8113aa9)
+![image](https://github.com/soniah770/Energy_Consumption/assets/59695002/eae1c09c-1e1c-492c-ad1c-324a898cb476)
 
 # Table of Contents
 * Link to Demonstration Video
